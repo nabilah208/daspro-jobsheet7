@@ -35,7 +35,7 @@ public class siakadWhile20 {
             }
             i++;
             
-        }
+        }sc.close();
 
     }
     
